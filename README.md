@@ -1,3 +1,3 @@
 # Cimagecollege-demo
-This is My first Git Repository
+This is My first Git Repository.
 Author - Bishnudhari kumar
